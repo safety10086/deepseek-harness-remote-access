@@ -1,0 +1,4 @@
+interface:
+  display_name: "DeepSeek Harness 局域网和远程工作区"
+  short_description: "添加局域网授权和 SSH 远程工作区能力"
+  default_prompt: "使用 $deepseek-harness-remote-access 在当前 DeepSeek Harness 仓库中实现或审计局域网访问授权与 SSH 远程工作区。"
